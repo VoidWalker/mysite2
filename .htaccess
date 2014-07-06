@@ -1,0 +1,5 @@
+Options Indexes FollowSymLinks
+DirectoryIndex index.php
+
+#PHP options
+php_flag asp_tags ON
